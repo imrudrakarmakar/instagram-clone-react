@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
-npm create-react-app ./ 
-npm install @material-ui/core
-npm firebase init  
+### In the project directory, you can run:
+#### npx create-react-app ./ 
+#### npm install @material-ui/core
+#### npm firebase init  
 
 ### `npm start`
 
